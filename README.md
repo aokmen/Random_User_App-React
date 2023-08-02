@@ -66,8 +66,3 @@ SOLUTION
 The Random User App demonstrates the use of React hooks like `useState` and the Axios library to fetch data from an external API. The app also showcases conditional rendering and dynamic updating of content based on user interactions. Users can view various details of random users, add them to a list, and view a summary of saved users in a table format.
 
 The project can serve as a starting point for more complex applications involving data fetching, filtering, and managing lists of users. It provides a practical example of using React to interact with APIs and present data to users in an organized and visually appealing manner.
-
-
-- You can add additional functionalities and design to your app.
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
