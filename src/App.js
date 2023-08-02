@@ -18,7 +18,6 @@ const url = "https://randomuser.me/api/";
 
 function App() {
 
-  const [randoms, setRandoms] = useState([]);
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [title, setTitle] = useState("name");
