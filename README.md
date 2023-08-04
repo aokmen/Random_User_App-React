@@ -5,7 +5,7 @@
 
 ## Description:
 
-The Random User App is a React-based application that fetches random user data from the "Random User API" and displays it to the user. The application allows users to view information about a random user, such as their name, email, age, address, phone number, and password. Users can also add the displayed user to a list of saved users..
+The Random User App is a React-based application that fetches random user data from the "Random User API" and displays it to the user. The application allows users to view information about a random user, such as their name, email, age, address, phone number, and password. Users can also add the displayed user to a list of saved users...
 
 ## Project Skeleton
 
